@@ -2,7 +2,7 @@
 🌱 I’m currently learning in Narxoz University
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arsen-orynbas-a3921a248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kazaktars123@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arsen-orynbas-a3921a248) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kazaktars123@gmail.com) 
 
 <picture>
   <img alt="github-snake" src="https://github.com/Ars160/Ars160/blob/output/github-contribution-grid-snake-dark.svg" />
